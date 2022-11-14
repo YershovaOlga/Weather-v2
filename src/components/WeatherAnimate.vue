@@ -22,7 +22,7 @@ export default {
 };
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
 .weather-animate {
   position: absolute;
   top: 0;
